@@ -1,0 +1,3 @@
+[submodule "gohello"]
+	path = gohello
+	url = git@github.com:nat2k5us/gohello.git
